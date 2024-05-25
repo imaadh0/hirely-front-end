@@ -10,4 +10,7 @@ This project is a front-end hiring web application built using React, Vite, and 
 
 # Screenshots
 
-![img1!](https://drive.google.com/file/d/1KT0K9st14WTSFN3cnIssBJd4vtsdLdtW/view?usp=sharing)
+![img1](img1.png)
+![img2](img2.png)
+![img3](img3.png)
+![img4](img4.png)
