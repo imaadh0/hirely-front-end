@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite Hiring Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a front-end hiring web application built using React, Vite, and Tailwind CSS. It allows users to apply for jobs by answering a series of questions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User-friendly Interface:** A clean and responsive design using Tailwind CSS.
+- **Job Application Form:** A dynamic form that asks users specific questions as part of the job application process.
+- **Fast Development:** Vite ensures a fast and efficient development experience.
