@@ -10,7 +10,7 @@ This project is a front-end hiring web application built using React, Vite, and 
 
 # Screenshots
 
-![img1](img1.png)
-![img2](img2.png)
-![img3](img3.png)
-![img4](img4.png)
+![img1](readme-images/img1.png)
+![img2](readme-images/img2.png)
+![img3](readme-images/img3.png)
+![img4](readme-images/img4.png)
